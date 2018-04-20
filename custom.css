@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
-  padding-top: 51px;
+  padding-top: 80px;
   background-color: #3C3C3C;
   font-family: 'Raleway', sans-serif;
 }
@@ -15,8 +15,8 @@ h2 {
 }
 
 .about-text {
-  font-size: 18px;
-  padding-top: 90px;
+  font-size: 24px;
+  padding-top: 85px;
   color: #B2B5BF;
 }
 
@@ -74,5 +74,5 @@ h2 {
 }
 
 .img-padding {
-    padding: 10px 0 10px 0;
+    padding: 30px 0 30px 0;
 }
