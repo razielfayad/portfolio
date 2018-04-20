@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+  padding-top: 51px;
+  background-color: #3C3C3C;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  background-color: #00BDBD;
+  color: #F7F8FA;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.about-text {
+  font-size: 18px;
+  padding-top: 90px;
+  color: #B2B5BF;
+}
+
+.box-about {
+  background-color: #555C70;
+}
+
+.line {
+  border-bottom: dashed 2px;
+  border-bottom-color: #F0F1F5;
+}
+
+.box-content {
+  background-color: #F7F8FA;
+}
+
+.form-width {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+  color: #000;
+}
+
+.navbar-default {
+  background-color: #F0F1F5;
+  border-color: #00BDBD;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.footer {
+  background-color: #555C70;
+  color: #B2B5BF;
+  text-align: center;
+  border-top: dashed 1px;
+  border-top-color: #00BDBD;
+}
+
+.footer a {
+  color: #B2B5BF;
+  font-size: 22px;
+}
+
+.footer ul {
+  margin-left: -35px;
+}
+
+.footer ul li {
+  display: inline;
+}
+
+.line-dashed {
+  border-bottom: dashed 1px;
+  border-bottom-color: #00BDBD;
+}
+
+.img-padding {
+    padding: 10px 0 10px 0;
+}
