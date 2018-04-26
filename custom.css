@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
-
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
@@ -74,5 +73,5 @@ h2 {
 }
 
 .img-padding {
-    padding: 30px 0 30px 0;
+  padding: 30px 0 30px 0;
 }
